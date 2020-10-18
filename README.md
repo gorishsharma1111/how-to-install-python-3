@@ -2,3 +2,4 @@
 #Hacktoberfest
 Install termux
 type apt-get install git
+vjJXJ jernd
